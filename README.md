@@ -32,7 +32,7 @@ Follow these steps to run the project locally:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/chargeeasy.git
+git clone https://github.com/Gowtham81126/ChargeEasy.git
 cd chargeeasy
 ```
 
